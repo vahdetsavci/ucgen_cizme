@@ -6,8 +6,10 @@ Bu uygulama kullanıcıdan alınan boyut bilgisini kullanarak bir üçgen çizer
 | .gitignore | |
 | README.md | |
 | LICENSE | |
-| UcgenMantigi.md | Üçgene nasıl şekil verildiği hakkında |
+| UcgenMantigi.md | Üçgene nasıl şekil verildiği hakkında notlar |
 | Console Application | Üçgenin çizildiği uygulama |
+
+![gorsel](Gorsel/screenShot.png)
 
 ## Installation
 Öncelikle projeyi klonlayın.
